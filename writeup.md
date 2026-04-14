@@ -41,7 +41,7 @@ High activity traders are more sensitive to sentiment changes. Traders with larg
 
 
 
-**3. Strategy Recommendations**
+## 3. Strategy Recommendations
 
 ### Position Sizing Strategy
 Position sizes should be reduced during Greed phases to avoid overexposure during potentially overheated market conditions. During Fear phases, traders should adopt a conservative approach and focus only on high-confidence setups.
