@@ -1,5 +1,4 @@
 
----
 
 # 2. Writeup (1-Page Summary – Clean Version)
 
@@ -25,7 +24,7 @@ The following metrics were constructed:
 
 In addition, traders were segmented based on activity levels, position sizes, and win rates to understand behavioral differences across groups.
 
----
+
 
 ## 2. Key Insights
 
@@ -40,7 +39,7 @@ A strong long bias is also observed during Greed conditions, indicating directio
 ### Trader Segmentation
 High activity traders are more sensitive to sentiment changes. Traders with larger position sizes experience higher volatility in performance. High win-rate traders remain relatively stable across different sentiment regimes.
 
----
+
 
 ## 3. Strategy Recommendations
 
